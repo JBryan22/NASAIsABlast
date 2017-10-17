@@ -1,0 +1,15 @@
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/bin/Debug/netcoreapp1.1/NASAIsABlast.Tests.deps.json
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/bin/Debug/netcoreapp1.1/NASAIsABlast.Tests.runtimeconfig.json
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/bin/Debug/netcoreapp1.1/NASAIsABlast.Tests.runtimeconfig.dev.json
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/bin/Debug/netcoreapp1.1/NASAIsABlast.Tests.dll
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/bin/Debug/netcoreapp1.1/NASAIsABlast.Tests.pdb
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/bin/Debug/netcoreapp1.1/NASAIsABlast.dll
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/bin/Debug/netcoreapp1.1/NASAIsABlast.pdb
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/obj/Debug/netcoreapp1.1/NASAIsABlast.Tests.csprojResolveAssemblyReference.cache
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/obj/Debug/netcoreapp1.1/NASAIsABlast.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/obj/Debug/netcoreapp1.1/NASAIsABlast.Tests.AssemblyInfo.cs
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/obj/Debug/netcoreapp1.1/NASAIsABlast.Tests.dll
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast.Tests/obj/Debug/netcoreapp1.1/NASAIsABlast.Tests.pdb

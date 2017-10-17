@@ -1,0 +1,21 @@
+﻿@model NASAIsABlast.Models.CrewRequirements
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(model => model.DaysInSpace)
+    @Html.EditorFor(model => model.DaysInSpace)
+
+    @Html.LabelFor(model => model.ComplexTasks)
+    @Html.EditorFor(model => model.ComplexTasks)
+
+    <input type="submit" value="Calculate" class="btn btn-default" />
+}
+
+@if(Model != null)
+{
+    @Model.Answer   
+}

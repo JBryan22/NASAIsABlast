@@ -1,0 +1,10 @@
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast/bin/Debug/netcoreapp1.1/NASAIsABlast.deps.json
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast/bin/Debug/netcoreapp1.1/NASAIsABlast.runtimeconfig.json
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast/bin/Debug/netcoreapp1.1/NASAIsABlast.runtimeconfig.dev.json
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast/bin/Debug/netcoreapp1.1/NASAIsABlast.dll
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast/bin/Debug/netcoreapp1.1/NASAIsABlast.pdb
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast/obj/Debug/netcoreapp1.1/NASAIsABlast.csprojResolveAssemblyReference.cache
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast/obj/Debug/netcoreapp1.1/NASAIsABlast.AssemblyInfo.cs
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast/obj/Debug/netcoreapp1.1/NASAIsABlast.dll
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast/obj/Debug/netcoreapp1.1/NASAIsABlast.pdb
+/Users/Guest/Projects/NASAIsABlast/NASAIsABlast/obj/Debug/netcoreapp1.1/NASAIsABlast.csproj.CoreCompileInputs.cache
